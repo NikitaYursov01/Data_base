@@ -254,3 +254,5 @@ ER-моделей:
 •	
 Рекурсивные.
 
+https://docs.google.com/presentation/d/1aAn9DGAOS45llVbUIdRHKjEqkp1ltyb6bWqtgCmwyBs/edit?usp=drivesdk
+
