@@ -256,3 +256,6 @@ ER-моделей:
 
 https://docs.google.com/presentation/d/1aAn9DGAOS45llVbUIdRHKjEqkp1ltyb6bWqtgCmwyBs/edit?usp=drivesdk
 
+https://drive.google.com/drive/folders/13aKpuNiYG4dmV-8SB8DHf_AUIrU3Fc9t
+
+
